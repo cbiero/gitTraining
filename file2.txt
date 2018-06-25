@@ -1,8 +1,8 @@
-MODIF 1
+MODIF 1 EHEH  CONFLICT 1 AAAAAAA
 file2 debut line 1
 B
 C
-d
+d  ehehe CONFLICT 2 BBBBBBB
 E
 F
 file2 end line
