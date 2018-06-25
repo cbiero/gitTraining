@@ -1,3 +1,3 @@
 another new file
 some changes in the new file !
-
+NEW CONFLICT
