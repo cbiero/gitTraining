@@ -6,4 +6,4 @@ d  ehehe CONFLICT 2 BBBBBBB
 E
 F
 file2 end line
-
+new modif branchR

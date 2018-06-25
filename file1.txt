@@ -1,4 +1,4 @@
-MODIF  1  conflit 11111
+MODIF  1  conflit 11111  new
 file1  debut line 1
 2
 4
