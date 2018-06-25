@@ -1,3 +1,4 @@
+MODIF 1
 file2 debut line 1
 B
 C
