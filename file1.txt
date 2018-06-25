@@ -1,4 +1,4 @@
-MODIF 1
+MODIF  1
 file1  debut line 1
 2
 3
