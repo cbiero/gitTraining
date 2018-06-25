@@ -2,7 +2,7 @@ MODIF 1 CONFLICT AAA
 file2 debut line 1
 B
 C
-d  CONFLICT BBB
+d  ehehe CONFLICT 2 BBBBBBB
 E
 F
 file2 end line
