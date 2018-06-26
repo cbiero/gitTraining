@@ -3,4 +3,5 @@ some changes in the new file !
 NEW CONFLICT
 
 cherry-pick1
+cherry-pick2
 
