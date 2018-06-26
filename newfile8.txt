@@ -1,3 +1,4 @@
  a seconds new file on cloned env.
- modif in clone !
-
+   modif in clone !
+   a conflict change in local
+  Lol taking boith changes !
