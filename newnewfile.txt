@@ -2,7 +2,5 @@ another new file
 some changes in the new file !
 NEW CONFLICT
 
-cherry-pick1
-cherry-pick2
-cherry-pick3
-
+cherry pick A
+cherry pick B
